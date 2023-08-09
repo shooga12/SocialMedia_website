@@ -1,4 +1,4 @@
-# SocialMedia_website
+# Django_SocialMedia_website
 A Social Media Website Along with its REST Api.
 
 **Features :**
